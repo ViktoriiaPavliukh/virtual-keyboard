@@ -1,9 +1,9 @@
 document.body.innerHTML = `<div class="container">
         <div class="keyboard_wrapp">
-            <div class="keyboard_lights"></div>
+           
             <div class="keyboard_keys">
                 <div class="row">
-                    <div class="keys">&lsquo;</div>
+                    <div class="keys">~</div>
                     <div class="keys">1</div>
                     <div class="keys">2</div>
                     <div class="keys">3</div>
